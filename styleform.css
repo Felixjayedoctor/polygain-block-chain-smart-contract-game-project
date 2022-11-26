@@ -76,17 +76,19 @@ footer{
     width: 100%;
     text-align: center;
     padding: 5vh;
+    
 }
 
 #container{
     background-color: blue;
-    margin: 5px;
-    width: 50vh;
-    display: flex;
-    justify-items: center;
-    margin-left: 150px;
+    width: 30%;
     color: aliceblue;
-}
+    display: grid;
+    margin-left: 200px;
+    position: relative;
+    justify-items: center
+    
+    }
 
 input{
     background-color: aliceblue;
@@ -110,11 +112,9 @@ input:hover{
 }
 
 #btnlog{
-    margin-left: 100px;
-    margin-top: 7px;
-    width: 150px;
+    width: 200px;
     border: none;
-    padding: 8px;
+    padding: 6px;
     font-size: 18px;
     font-weight: bold;
     color: tan;

@@ -1,34 +1,4 @@
-// while(number < 10){
-//     alert("number is less than 10")
-// }
 
-// for (let i=0; i<3; i){
-//     alert("i love you")
-// }
-   
-
-
-
-// if(gender = "female"){
-//     alert("you are a lady")
-// }
-// else if(gender = "male"){
-//     ("you are a fuy")
-// }
-// else{
-//     alert("i dont know what you are")
-// }
-
-// function showMessage(){
-//     alert("hi there")
-// }
-
-// showMessage()
-
-
-// let user = {}
-//  user["name"] = "i am victoria"
-//  console.log
 
 
 // username//
